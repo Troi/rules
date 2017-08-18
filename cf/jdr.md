@@ -41,6 +41,8 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 *  d) není projednáván na žádném jiném jednání celostátního fóra,
 
 *  e) je podán včas, je-li pro jeho podání stanovena lhůta.
+
+*  d) jde-li o změnu stanov, předpisu nebo jde-li o oficiální vyjádření, je veden jako větev v GITu
  
 (2) Přijatelný návrh předsedající zaznamená, případně požádá o jeho podání v písemné podobě, je-li to třeba. Pokud je návrh nepřijatelný, předsedající pomůže navrhovateli vadu návrhu odstranit, pokud je to možné. Jinak předsedající návrh prohlásí za nepřijatelný a dál k němu nepřihlíží. 
 
