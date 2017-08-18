@@ -60,13 +60,15 @@ Cílem jednání celostátního fóra je rozhodovat v jeho působnosti
 
 Předsedající zahájí jednání jen z předepsaného důvodu. Při zahájení jednání 
 
-*  a) oznámí důvod zahájení jednání, zveřejní projednávané rozhodnutí a vyhlásí lhůtu pro návrhy rozhodnutí, pokud jsou další návrhy rozhodnutí přijatelné,
+*  a) oznámí důvod zahájení jednání a vyhlásí lhůtu pro návrhy rozhodnutí, pokud jsou další návrhy rozhodnutí přijatelné,
 
 *  b) vyhlásí datum, čas, místo, způsob jednání a rozhodujícího hlasování,
 
 *  c) případně oznámí, že jednání je zahájeno jako uzavřené,
 
 *  d) jmenuje další činovníky jednání z řad přítomných, pokud to jednání vyžaduje.
+
+*  e) zveřejní jméno větve s projednávaným rozhodnutím a odkaz na něj
 
 ##### § 8 Činovníci jednání
 
